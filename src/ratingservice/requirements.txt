@@ -4,3 +4,5 @@ psycopg2-binary==2.8.5
 google-python-cloud-debugger==2.18
 # pyparsing pin solves related issue: https://github.com/GoogleCloudPlatform/cloud-ops-sandbox/issues/877
 pyparsing==2.4.7
+# markupsafe pin works around flask1/jinja2 issue: https://github.com/pallets/markupsafe/issues/284
+markupsafe==2.0.1
