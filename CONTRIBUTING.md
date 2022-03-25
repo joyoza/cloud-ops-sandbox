@@ -35,7 +35,7 @@ Guidelines](https://opensource.google.com/conduct/).
 
 ## Git Workflow
 
-This project conforms to the [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-wokflow).
+This project conforms to the [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
 The repo contains two important branches:
 - the `main` branch stores the official release history
 - the `develop` branch contains the current working codebase.
